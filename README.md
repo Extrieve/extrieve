@@ -17,9 +17,11 @@ I'm a Fullstack Engineer at Goldman Sachs, currently based in the NY Metro area.
 
 - **Frontend:**
   - **React:** Creating dynamic and responsive interfaces
+  - **NextJS:** Building fast, SEO-friendly web applications
   - **HTMX:** Enhancing user interactions with minimal overhead
 - **Backend:**
-  - Versatile fullstack development with a solid grasp of server-side architecture
+  - **FastAPI:** High-performance, easy-to-use web framework for building APIs with Python
+  - **Spring Boot:** Simplifying the development of production-ready applications with Java
 - **Languages & Technologies:**
   - JavaScript, Python, Java, Go, HTML/CSS, SQL, Git, Docker, AWS
 
