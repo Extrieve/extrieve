@@ -1,6 +1,6 @@
 # Hi, I'm Nick 👋
 
-I'm a Fullstack Engineer at Goldman Sachs, currently based in the NY Metro area. I have a strong passion for building smooth and intuitive user experiences, with a special focus on frontend frameworks like **React** and **HTMX**.
+I'm a Fullstack Engineer at Goldman Sachs, currently based in the NY Metro area. I have a strong passion for building smooth and intuitive user experiences, with a special focus on frontend frameworks like **React**, **NextJS** and server-side focused ones such as **HTMX**.
 
 ---
 
@@ -21,7 +21,7 @@ I'm a Fullstack Engineer at Goldman Sachs, currently based in the NY Metro area.
 - **Backend:**
   - Versatile fullstack development with a solid grasp of server-side architecture
 - **Languages & Technologies:**
-  - JavaScript, Python, and more—constantly expanding my toolkit
+  - JavaScript, Python, Java, Go, HTML/CSS, SQL, Git, Docker, AWS
 
 ---
 
@@ -39,7 +39,7 @@ I believe in the power of collaboration and continuous improvement. Some of my w
 
 I'm always open to connecting with fellow tech enthusiasts. Whether you want to chat about code, share project ideas, or just have a friendly conversation about the latest in tech, feel free to reach out!
 
-> "Striving for simplicity in a complex world, one line of code at a time." – Nick
+> "It's pronounced My Squeal." – ThePrimeagen
 
 ---
 
