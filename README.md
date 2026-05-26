@@ -1,45 +1,134 @@
 # Hi, I'm Nick 👋
 
-I'm a Fullstack Engineer at Goldman Sachs, currently based in the NY Metro area. I have a strong passion for building smooth and intuitive user experiences, with a special focus on frontend frameworks like **React**, **NextJS** and server-side focused ones such as **HTMX**.
+I'm a Fullstack Engineer at Goldman Sachs in the NY Metro area, currently working in **Global Banking & Markets Public** on trading and markets-facing platforms.
+
+I like building systems that sit close to real business workflows: fast UIs, reliable services, resilient data flows, and tools that traders, salespeople, and business users can actually depend on day to day.
 
 ---
 
 ## About Me
 
 - **Current Role:** Fullstack Engineer at Goldman Sachs
-- **Focus:** Crafting engaging, modern interfaces with React and HTMX
+- **Domain:** Global Banking & Markets Public, trading platforms, capital markets workflows
+- **Focus Areas:** Frontend performance, scalable platform design, backend services, infrastructure, and developer experience
 - **Location:** NY Metro area
-- **Interests:** Clean code, efficient design, and continuous learning in technology
+- **Engineering Style:** Pragmatic, performance-minded, product-aware, and always learning
+
+I spend a lot of time building and optimizing rich user interfaces, especially data-heavy applications where responsiveness, correctness, and workflow design matter. That said, I do not see myself as “just a frontend engineer.” I have strong backend and infrastructure experience as well, and I enjoy working across the full stack when the problem calls for it.
+
+I was originally raised around lower-level and backend-heavy programming with **C, C++, and Java**, and that background still shapes how I think about performance, reliability, and system design today.
+
+---
+
+## What I Work On
+
+My current work is centered around internal platforms used in financial markets environments, including:
+
+- Building and maintaining **trading and markets-facing applications**
+- Developing high-performance, data-intensive user interfaces
+- Optimizing large grids, complex state flows, and real-time workflows
+- Designing backend services that support business-critical platforms
+- Working across frontend, backend, CI/CD, infrastructure, and cloud-adjacent systems
+- Collaborating closely with business users to turn real-world workflows into reliable software
+
+I enjoy problems where the frontend is not just a presentation layer, but a serious engineering surface: large datasets, fast updates, complex interactions, state synchronization, and workflows where performance directly affects usability.
+
+---
+
+## Technical Interests
+
+- Trading platforms and capital markets technology
+- High-performance frontend architecture
+- React, state management, and large-scale UI systems
+- Backend service design with Java, Python, and Go
+- Infrastructure, deployment pipelines, and operational reliability
+- Developer tooling and clean engineering practices
+- Practical system design over over-engineered abstractions
 
 ---
 
 ## Skills & Tools
 
-- **Frontend:**
-  - **React:** Creating dynamic and responsive interfaces
-  - **NextJS:** Building fast, SEO-friendly web applications
-  - **HTMX:** Enhancing user interactions with minimal overhead
-- **Backend:**
-  - **FastAPI:** High-performance, easy-to-use web framework for building APIs with Python
-  - **Spring Boot:** Simplifying the development of production-ready applications with Java
-- **Languages & Technologies:**
-  - JavaScript, Python, Java, Go, HTML/CSS, SQL, Git, Docker, AWS
+### Frontend
+
+- **React**
+- **Next.js**
+- **HTMX**
+- TypeScript / JavaScript
+- State management and complex UI architecture
+- Performance optimization for data-heavy applications
+- HTML, CSS, Tailwind, component systems
+
+### Backend
+
+- **Spring Boot**
+- **FastAPI**
+- **Go / Gin**
+- REST APIs
+- Service-oriented architecture
+- Data modeling and backend integration patterns
+
+### Languages
+
+- TypeScript
+- JavaScript
+- Java
+- Python
+- Go
+- C / C++
+- SQL
+
+### Infrastructure & Tooling
+
+- Git
+- Docker
+- AWS
+- CI/CD pipelines
+- Linux / WSL
+- Build tooling and package ecosystems
+- Observability and performance testing concepts
 
 ---
 
-## Projects & Contributions
+## Engineering Philosophy
 
-I believe in the power of collaboration and continuous improvement. Some of my work includes:
+I like software that is useful, fast, and maintainable.
 
-- **Building scalable web applications** that drive real business value.
-- **Contributing to open source projects** to help the community grow.
-- **Exploring new technologies** and sharing my findings to foster better development practices.
+Good engineering, to me, means understanding the real workflow first, then choosing the simplest architecture that can support it reliably. Sometimes that means polishing a frontend interaction until it feels instant. Sometimes it means fixing backend data flow, improving deployment reliability, or simplifying an abstraction that got too clever.
+
+I care about:
+
+- Clear ownership
+- Fast feedback loops
+- Clean APIs
+- Thoughtful UX
+- Measurable performance
+- Reliable systems
+- Code that the next engineer can understand
+
+---
+
+## Outside of Work
+
+I'm usually exploring new frameworks, building side projects, learning more about trading systems, or experimenting with tools that improve developer productivity.
+
+Recently, I’ve been especially interested in:
+
+- Modern React and frontend performance
+- HTMX and server-driven UI patterns
+- Go backends
+- Python tooling
+- Developer experience
+- Finance and markets technology
+- Practical AI-assisted engineering workflows
 
 ---
 
 ## Let's Connect
 
-I'm always open to connecting with fellow tech enthusiasts. Whether you want to chat about code, share project ideas, or just have a friendly conversation about the latest in tech, feel free to reach out!
+I'm always happy to connect with other engineers, builders, and people interested in markets technology, frontend performance, backend systems, or software engineering in general.
+
+Whether you want to talk about trading platforms, React, Spring Boot, Go, system design, or just swap project ideas, feel free to reach out.
 
 > "It's pronounced My Squeal." – ThePrimeagen
 
